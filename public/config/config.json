@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa269c328EDE72F6b12A1BCca4f0118a63A015C42",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa269c328EDE72F6b12A1BCca4f0118a63A015C42",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The BREWS NFT",
+  "SYMBOL": "BREW",
+  "MAX_SUPPLY": 25000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-brews-nft",
+  "SHOW_BACKGROUND": false
+}

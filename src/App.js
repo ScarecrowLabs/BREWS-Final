@@ -438,7 +438,9 @@ function App() {
             }}
           >
             We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-            successfully mint your NFT. We recommend that you don't lower the
+            successfully mint your NFT however your transaction may go through faster by editing the gas fee as follows:
+            Max Priority Fee: 41, Max Fee: 42 
+            We recommend that you don't lower the
             gas limit.
           </s.TextDescription>
         </s.Container>
